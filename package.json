@@ -1,0 +1,19 @@
+{
+  "name": "ally",
+  "version": "1.0.0",
+  "description": "website to share photos in front of ALLY sign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryrose/ally.git"
+  },
+  "author": "Henry Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryrose/ally/issues"
+  },
+  "homepage": "https://github.com/henryrose/ally#readme"
+}
