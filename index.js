@@ -1,6 +1,6 @@
 var express = require('express')
 var app = express()
-//test
+
 app.get('/', function (req, res) {
   res.send('Welcome to ALLY! ')
 })
